@@ -1,0 +1,2 @@
+# Artemia-tracking-dataset
+Artemia time lapse microscopic videos annotated with object location ground-truth indicated by their centroid locations
